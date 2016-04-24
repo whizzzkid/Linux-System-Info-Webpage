@@ -17,4 +17,13 @@ The original script renders a boring page with no beauty. What's more beautiful 
 
  Done!
 
+# Features
+
+ - Completely rewritten with performance in mind.
+ - Less processing on server side (we’re running this on Pi) more processing to the user.
+ - Complete Material Design Compliance.
+ - Google Charts :-)
+ - No dependency.
+ - Responsive Design.
+
 # License: MIT
