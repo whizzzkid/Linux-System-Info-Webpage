@@ -27,3 +27,5 @@ The original script renders a boring page with no beauty. What's more beautiful 
  - Responsive Design.
 
 # License: MIT
+
+# Blog Post: https://nishantarora.in/adding-front-end-to-your-raspberry-pi-server.naml
